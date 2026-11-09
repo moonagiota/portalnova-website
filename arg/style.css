@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(8, 37, 82);
+}
+
+.paragraph {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color:white;
+    text-align: center;
+    margin-top: 40vh;
+}
+
+#s {
+    color:transparent;
+}
